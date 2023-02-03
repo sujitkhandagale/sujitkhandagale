@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/6HycN6Y/Github-Profile-Img.jpg" alt="Profile banner">
+<img src="https://i.postimg.cc/SK0Gxmfk/Github-Profile-Img.jpg" alt="Profile banner">
 I'm a MERN Developer.I enjoy working with ReactJS, NextJS, MongoDB, ExpressJS (JavaScript, APIs + Markup) and GraphQL.
 
 ### Find me around the web :
