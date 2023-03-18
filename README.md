@@ -6,5 +6,6 @@ I'm a MERN Developer.I enjoy working with ReactJS, NextJS, MongoDB, ExpressJS (J
 <a href="https://sujitkhandagale.in"><img src="https://i.postimg.cc/YqK2kbDJ/1667220184logo.png" width="60"></a> <a href="https://instagram.com/code_sujit"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" width="24"></a>
 
 #### Useful Project Links
-<a target="_blank" href= "https://tailwind-bus-booking-platform.sujitkhandagale.in/">Bus Booking<a> <br>
-<a target="_blank" href= "https://doctor-consultation.sujitkhandagale.in/">Doctor Consultation<a>
+<a target="_blank" href= "https://link.sujitkhandagale.in/3wuST">Bus Booking<a> <br>
+<a target="_blank" href= "https://link.sujitkhandagale.in/j9ddU">Doctor Consultation<a>
+  <a target="_blank" href= "https://link.sujitkhandagale.in/VCjg1">React State<a>
