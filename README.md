@@ -9,32 +9,5 @@ I'm a MERN Developer.I enjoy working with ReactJS, NextJS, MongoDB, ExpressJS (J
 <a target="_blank" href= "https://link.sujitkhandagale.in/3wuST">Bus Booking<a> <br>
 <a target="_blank" href= "https://link.sujitkhandagale.in/j9ddU">Doctor Consultation<a> <br>
   <a target="_blank" href= "https://link.sujitkhandagale.in/VCjg1">React State<a>
+    
 
-<table>
-  <thead>
-    <tr>
-      <th>header1</th>
-      <th>header2</th>
-      <th>header3</th>
-    </tr>
-   </thead>
-   <tbody>
-     <tr>
-       <td>text1.1</td>
-       <td>text1.2</td>
-       <td>text1.3</td>
-     </tr>
-     <tr>
-       <td>text2.1</td>
-       <td>text2.2</td>
-       <td>text2.3</td>
-     </tr>
-     <tr>
-       <td>text3.1</td>
-       <td>text3.2</td>
-       <td>text3.3</td>
-     </tr>
-     <tr>
-     </tr>
-  </tbody>
-</table>
