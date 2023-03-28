@@ -9,7 +9,7 @@ I'm a MERN Developer.I enjoy working with ReactJS, NextJS, MongoDB, ExpressJS (J
 <a target="_blank" href= "https://link.sujitkhandagale.in/3wuST">Bus Booking<a> <br>
 <a target="_blank" href= "https://link.sujitkhandagale.in/j9ddU">Doctor Consultation<a> <br>
 <a target="_blank" href= "https://link.sujitkhandagale.in/VCjg1">React State<a> <br>
-<a target="_blank" href ="https://simple-bootstrap-sidebar-01.sujitkhandagale.in/">Simple Bootstrap Sidebar</a>
+<a target="_blank" href ="https://link.sujitkhandagale.in/8LGwZ">Simple Bootstrap Sidebar</a>
     
     
 
