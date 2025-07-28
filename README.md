@@ -1,14 +1,31 @@
-<a><img src="https://i.postimg.cc/SK0Gxmfk/Github-Profile-Img.jpg" alt="Profile banner"></a>
-<br>
-I'm a MERN Developer.I enjoy working with ReactJS, NextJS, MongoDB, ExpressJS (JavaScript, APIs + Markup) and GraphQL.
+<a href="https://sujitdev.in">
+  <img src="https://i.postimg.cc/SK0Gxmfk/Github-Profile-Img.jpg" alt="Profile banner" width="100%" />
+</a>
 
-### Find me around the web :
-<a href="https://sujitdev.in"><img src="https://sujitdev.in/android-chrome-192x192.png" width="60px" height="60px"></a> <a href="https://instagram.com/_sujitdev"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" width="24"></a>
+# 👋 Hi, I'm Sujit – MERN Stack Developer
 
-#### Useful Project Links
-<a target="_blank" href= "https://bus-booking-template.sujitdev.in">Bus Booking<a> <br>
-<a target="_blank" href= "https://link.sujitkhandagale.in/j9ddU">Doctor Consultation<a> <br>
-<a target="_blank" href= "https://electronic-shop.sujitdev.in">Electronic Shop<a> <br>
-    
-    
+I'm passionate about building full-stack web applications using **ReactJS**, **NextJS**, **MongoDB**, **ExpressJS**, and **GraphQL**. I love transforming ideas into real-world projects and constantly exploring new web technologies.
 
+---
+
+### 🌐 Connect with me
+
+<a href="https://sujitdev.in">
+  <img src="https://sujitdev.in/android-chrome-192x192.png" alt="Portfolio" width="24px" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/_sujitdev">
+  <img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram" width="24px" />
+</a>
+
+---
+
+### 🔗 Featured Projects
+
+- 🚍 [Bus Booking Template](https://bus-booking-template.sujitdev.in)
+- 🩺 [Doctor Consultation](https://link.sujitkhandagale.in/j9ddU)
+- 🛒 [Electronic Shop](https://electronic-shop.sujitdev.in)
+
+---
+
+> ✨ Open to freelance or collaboration opportunities. Let’s build something amazing!
