@@ -13,7 +13,7 @@ I'm passionate about building full-stack web applications using **ReactJS**, **N
 <a href="https://sujitdev.in">
   <img src="https://sujitdev.in/android-chrome-192x192.png" alt="Portfolio" width="24px" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://instagram.com/_sujitdev">
   <img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram" width="24px" />
 </a>
