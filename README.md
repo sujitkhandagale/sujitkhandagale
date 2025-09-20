@@ -22,7 +22,8 @@ I'm passionate about building full-stack web applications using **ReactJS**, **N
 
 ### 🔗 Featured Projects
 
-- 🚍 [Bus Booking Template](https://bus-booking-template.sujitdev.in)
+- 🛒 [Event Management App](https://github.com/sujitkhandagale/event-management-app)
+- 🚍 [Bus Booking](https://bus-booking-template.sujitdev.in)
 - 🩺 [Doctor Consultation](https://link.sujitkhandagale.in/j9ddU)
 - 🛒 [Electronic Shop](https://electronic-shop.sujitdev.in)
 
